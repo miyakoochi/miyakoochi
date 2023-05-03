@@ -1,16 +1,13 @@
-### Hi there 👋
+<img style="width:200px;" src="https://nostr.build/i/nostr.build_ac2915d9cac673450371b1abd0ce9e104b2f8ba5ca9c164b1083b9ecc21e0574.jpg" align="right" />
 
-<!--
-**miyakoochi/miyakoochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
+<br />
 
-Here are some ideas to get you started:
+Hi there, I am hikikomori.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I dedicate myself entirely to:
+
+- Artistic creation based on egoism
+- Ball-jointed Dolls
+- Building virtual worlds
